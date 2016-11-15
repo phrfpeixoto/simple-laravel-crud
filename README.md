@@ -38,5 +38,5 @@ If you have any problems, please feel free to open an Issue
 * [AngularJS](https://angularjs.org/) - Version 1.5.8
 * [Twitter Bootstrap](https://angularjs.org/) - Version 3.3.7
 * [jQuery](https://jquery.com/) - Version 3.1.1. Twitter Bootstrap requirement
-* [VirtualBox](https://www.virtualbox.org/) - Version 5.0.16, running Debian 8.4
+* [VirtualBox](https://www.virtualbox.org/) - Version 5.0.16, running Debian 8.1
 * [PHPStom](https://www.jetbrains.com/phpstorm/) - Version 2016.2. Awesome IDE
